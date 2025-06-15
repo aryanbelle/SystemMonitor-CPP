@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(141,28): warning C4459: declaration of 'usagePercent' hides global declaration
+      D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(122,14):
+      see declaration of 'usagePercent'
+  
+D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(313,18): warning C4456: declaration of 'io' hides previous local declaration
+      D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(225,14):
+      see declaration of 'io'
+  
+D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(377,29): warning C4459: declaration of 'cpu' hides global declaration
+      D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(121,17):
+      see declaration of 'cpu'
+  
+D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(269,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+D:\imgui-1.91.9b\examples\example_win32_directx12\main.cpp(270,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  example_win32_directx12.vcxproj -> D:\imgui-1.91.9b\examples\example_win32_directx12\Debug\example_win32_directx12.exe
